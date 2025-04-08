@@ -1,7 +1,7 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "Huberconn Cargo",
   meta: [
     {
       name: "description",
