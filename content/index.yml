@@ -1,7 +1,6 @@
 hero:
   title: Tell what you want in your country. we'll ship
-  description: Craft high-erforming, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify’s global edge network.
-  image: images/hero.jpg
+  description:Either you want to import High end machinery or Functional foods we got you covered
   imageAlt: Nuxt logo and title on abstract background
   buttons:
     - label: Get Started Today
