@@ -14,8 +14,8 @@ logos:
     - name: i-simple-icons-google
     - name: i-simple-icons-netlify
 features:
-  title: Why choose Nuxt.js?
-  description: Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.
+  title: Why choose Huberconn?
+  description: Huberconn has great expertise in sourcing and exporting goods that are tailored precisely to the buyers in other countries
   items:
     - title: Server-Side Rendering
       description: Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO.
