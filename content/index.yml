@@ -1,6 +1,6 @@
 hero:
   title: Tell what you want in your country. we'll ship
-  description:Either you want to import High end machinery or Functional foods we got you covered
+  description: Either you want to import High end machinery or Functional foods we got you covered
   imageAlt: Nuxt logo and title on abstract background
   buttons:
     - label: Get Started Today
